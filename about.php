@@ -10,7 +10,7 @@
                 <center><div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/a.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Wawan Dermawan</h4>
+                        <h4>Wawan</h4>
                         <p class="text-muted">Lead Planner</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
